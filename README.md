@@ -37,16 +37,15 @@ The script includes the following components:
 
 Functions
 avg_grades()
-
 Calculates the average grades of each student and prints the student with the highest average grade.
+
 best_and_worst_math_students()
-
 Identifies students with the highest and lowest grades in Mathematics and prints their details.
+
 english_grade_greater_than_average()
-
 Determines students whose English grades exceed the average and prints their details.
-print_grades_table()
 
+print_grades_table()
 Visualizes the grades data in tabular form (commented out by default).
 Author
 
